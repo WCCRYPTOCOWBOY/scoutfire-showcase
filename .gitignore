@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.env.*
+private_key.pem
+cdp_api_key.json
+*.log
+scoutfire_log.txt
+.vscode/
